@@ -28,10 +28,16 @@ Módulo Administrador:
 
 📸 Capturas de Pantalla
 
-Cliente <br>
+Cliente
+
 [![CAR-1.jpg](https://i.postimg.cc/hG6F8xBg/CAR-1.jpg)](https://postimg.cc/67r1t8q1)
 
 Administrador
+
+[![CAR-2.jpg](https://i.postimg.cc/5yJRpSkc/CAR-2.jpg)](https://postimg.cc/dkW6VrYn)
+[![CAR-3.jpg](https://i.postimg.cc/NG8VFZ5Q/CAR-3.jpg)](https://postimg.cc/8s5wnKRY)
+[![CAR-4.jpg](https://i.postimg.cc/L6NbBft7/CAR-4.jpg)](https://postimg.cc/Whq8sdf6)
+[![CAR-5.jpg](https://i.postimg.cc/P57V0jFQ/CAR-5.jpg)](https://postimg.cc/cvQc8VWv)
 
 
 🛠️ Tecnologías Utilizadas
@@ -63,6 +69,7 @@ Configura Firebase:
 📧 Contacto
 
 Desarrollador: JOE
+
 Correo: tancarajoe@gmail.com
 
 ¡Gracias por visitar este proyecto! 🎉
